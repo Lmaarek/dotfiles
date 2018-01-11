@@ -5,16 +5,23 @@
 	],
 	"installed_packages":
 	[
+		"4GL",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"ApplySyntax",
 		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
 		"Emmet",
+		"Emmet Css Snippets",
+		"Emmet Style Reflector",
+		"EmmetOneLine",
 		"ERB Snippets",
 		"Git",
 		"GitGutter",
 		"JSX",
 		"Package Control",
-		"SCSS"
+		"SCSS",
+		"SublimeLinter-contrib-sublime-syntax"
 	]
 }
